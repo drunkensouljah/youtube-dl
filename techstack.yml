@@ -2,14 +2,14 @@ repo_name: drunkensouljah/youtube-dl
 report_id: c5b6b64df4077cb564f543b23167bf51
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:09:05+00:00'
+timestamp: '2024-02-29T18:19:27+00:00'
 requested_by: dstftw
 provider: github
 branch: master
 detected_tools_count: 5
 tools:
 - name: ActionScript
-  description: 'An object-oriented programming language '
+  description: An object-oriented programming language
   website_url: http://www.adobe.com/devnet/actionscript.html
   open_source: true
   hosted_saas: false
